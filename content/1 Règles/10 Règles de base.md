@@ -7,7 +7,7 @@ Avec l'ajout de quelques règles maisons :
 ### Règles Maison
 
 #### les Relations Fondatrices
-PNJ dont l'existence même défini le personnage. [[Relations Fondatrices]]
+PNJ dont l'existence même défini le personnage. [[11 Relations Fondatrices]]
 
 [[Ellipses]]
 

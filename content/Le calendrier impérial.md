@@ -7,8 +7,8 @@ Utilisé par [[l'Ancien Empire]].
 3 *Décades* de 10 jours pour chacun des 12 *Mois* et 5 ou 6 jours ajoutés appelées les _Vertus_ en fin d'année. 
 
 ### Les Vertus
-Les _Vertus_ sont **Travail**, **Génie**, **Opinion**, **Fraternité**, **Récompenses** et tous les 4 ans c'est le **Jour de l'Empereur** qui est ajouté. Les Vertus sont placés entre Brumaire et Frimaire. 
-â
+Les _Vertus_ sont **Travail**, **Génie**, **Opinion**, **Fraternité**, **Récompenses** et tous les 4 ans c'est le **Jour de l'Empereur** qui est ajouté. Les Vertus sont placés entre Brumaire et Frimaire2. 
+
 ### Les Mois
 - **Mois d'automne**
     - Vendémiaire — Période des vendanges
