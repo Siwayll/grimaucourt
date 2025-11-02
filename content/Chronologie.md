@@ -25,7 +25,7 @@ cssclasses:
 - Fondation de [[Grimaucourt]]
 - Rencontre avec [[Holoʇo]] et création de la cité volante qui accueil les rares survivants de [[Luzaval]] et part vers le domaine de [[Saint-Macre]].
 
-- 8153 SF 
+- 8153⋅05H05 SF 
 - Fuite vers un nouveau domaine
 - Un commando privé de la [[Maison Bourgain & fils]] prend d'assaut [[Grimaucourt]] qui n'a d'autre choix que de se téléporter dans un autre domaine.
 
