@@ -2,6 +2,7 @@
 
 // put your custom CSS here!
 @use "./grimwild.scss";
+@use "./timeline.scss";
 
 
 .content-meta {
@@ -16,3 +17,59 @@ h5,
 h6 {
   color: var(--tertiary);
 }
+
+.callout {
+  --callout-icon-landmark: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWxhbmRtYXJrLWljb24gbHVjaWRlLWxhbmRtYXJrIj48cGF0aCBkPSJNMTAgMTh2LTciLz48cGF0aCBkPSJNMTEuMTIgMi4xOThhMiAyIDAgMCAxIDEuNzYuMDA2bDcuODY2IDMuODQ3Yy40NzYuMjMzLjMxLjk0OS0uMjIuOTQ5SDMuNDc0Yy0uNTMgMC0uNjk1LS43MTYtLjIyLS45NDl6Ii8+PHBhdGggZD0iTTE0IDE4di03Ii8+PHBhdGggZD0iTTE4IDE4di03Ii8+PHBhdGggZD0iTTMgMjJoMTgiLz48cGF0aCBkPSJNNiAxOHYtNyIvPjwvc3ZnPg==');
+
+  &[data-callout] {
+    --color:#A7C080;
+    --border:#A7C080;
+    --bg:#83C09210;
+    --callout-icon:var(--callout-icon-note)
+  }
+
+
+  &.wahrheit {
+    --color: #A7C080;
+    --border: #A7C080;
+    --bg: #83C09210;
+    --callout-icon: var(--callout-icon-landmark);
+
+    display: flex;
+
+    .callout-title {
+      --icon-size: 40px;
+      align-items: center;
+
+      .callout-title-inner {
+        display: none;
+      }
+      .callout-icon {
+        margin-right: 1rem;
+      }
+    }
+    .callout-content  {
+      padding-top: 1rem;
+    }
+  }
+
+  &.signalement {
+    .callout-title {
+      display: none;
+    }
+  }
+
+  &.mj {
+    border-radius: 2em;
+    --callout-icon: var(--callout-icon-info);
+  }
+}
+
+
+
+.callout.exemple {
+  background-color: transparent;
+}
+
+
+

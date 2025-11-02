@@ -1,7 +1,7 @@
 En plus des règles de création classique de personnage, après l'étape 1 (Grimwild, page 51) il faut, pour chaque *Background* ou *Héritage* d'un personnage, associer un PNJ crée pour l’occasion.
 
 > [!MJ] 
-> Pas besoin de plus d'informations à la création, un nom, un rôle et un lien avec le personnage est largement suffisant. Les PNJ seront développés pendant les sessions de jeu.
+> Pas besoin de beaucoup d'informations à la création, un nom, un rôle et un lien avec le personnage est largement suffisant. Les PNJ seront développés pendant les sessions de jeu.
 
 
 > [!EXEMPLE] 

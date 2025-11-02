@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "fr-FR",
     baseUrl: "siwayll.github.io/grimaucourt",
-    ignorePatterns: ["private", "templates", ".obsidian", "00 MJ"],
+    ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",

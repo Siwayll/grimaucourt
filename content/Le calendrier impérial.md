@@ -1,5 +1,7 @@
-Utilisé par [[l'Ancien Empire]].
-
+---
+Draft: true
+---
+Mis en place et généralisé par [[l'Ancien Empire]].
 
 > [!INSPIRATION]
 > Largement inspiré du [Calendrier républicain](https://fr.wikipedia.org/wiki/Calendrier_r%C3%A9publicain)
@@ -7,7 +9,7 @@ Utilisé par [[l'Ancien Empire]].
 3 *Décades* de 10 jours pour chacun des 12 *Mois* et 5 ou 6 jours ajoutés appelées les _Vertus_ en fin d'année. 
 
 ### Les Vertus
-Les _Vertus_ sont **Travail**, **Génie**, **Opinion**, **Fraternité**, **Récompenses** et tous les 4 ans c'est le **Jour de l'Empereur** qui est ajouté. Les Vertus sont placés entre Brumaire et Frimaire2. 
+Les _Vertus_ sont **Travail**, **Génie**, **Opinion**, **Fraternité**, **Récompenses** et tous les 4 ans c'est le **Jour de l'Empereur** qui est ajouté. Les Vertus sont placés entre Brumaire et Frimaire. 
 
 ### Les Mois
 - **Mois d'automne**
@@ -27,14 +29,15 @@ Les _Vertus_ sont **Travail**, **Génie**, **Opinion**, **Fraternité**, **Réco
     - Thermidor – Période des chaleurs
     - Fructidor – Période des fruits
 
-Donc `<Année>⋅<Mois><Décade><Jour>` 
-soit `[0-9]+⋅(01-12)[AHP](1-0)` 
+### Les décades
+Il y a trois décades de 10 jours pour chacun des 12 mois. Elles sont nommées *Ascendante*, *Haute*, *Plongeante* et leur initial sert dans l'écriture des dates. 
 
+## Écriture des dates
+Les dates s'écrivent : `<Année>⋅<Mois sur deux lettres><Décade (A, H ou P)><Jour sur deux lettres>` 
 
-> [!EXAMPLE] Exemples de dates
-> <mark class="hltr-purple">3153⋅04A7</mark> pour le 7e jour Ascendant de Nivôse en l'an 3153
-> 
-> <mark class="hltr-purple">3142⋅11P9</mark> pour le 9e jour Plongeant de Thermidor en l'an 3142
+**3153⋅04A7** pour le 7e jour Ascendant de Nivôse en l'an 3153
+
+**3142⋅11P9** pour le 9e jour Plongeant de Thermidor en l'an 3142
 
 
 
