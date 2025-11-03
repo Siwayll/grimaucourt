@@ -1,6 +1,6 @@
 ---
 tags:
-  - Faction_Peuple
+  - Faction/Peuple
 Draft: false
 share: true
 ---
