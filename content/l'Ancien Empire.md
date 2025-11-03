@@ -1,7 +1,8 @@
 ---
 tags:
-  - Faction/Peuple
+  - Faction_Peuple
 Draft: false
+share: true
 ---
 
 _Empire disparu où il faisait bon vivre et aux inspirations de nos campagnes._
@@ -11,7 +12,7 @@ _Empire disparu où il faisait bon vivre et aux inspirations de nos campagnes._
 > Domination incontestée pendant des millénaires. Stupidement puissant et protecteur envers les siens et ses terres.
 > 
 
-Peut bavard sur le sujet de manière officielle, il existe pourtant une multitude de légendes de dieux violents qui ont simplement disparu ou de civilisations guerrières qui ont été dissoutes à la simple idée de vouloir passer une frontière Impériale ou s'en prendre à un citoyen impérial. 
+Peut bavard sur le sujet de manière officielle, il existe pourtant une multitude de légendes de dieux violents qui ont simplement disparu ou de civilisations guerrières qui ont été dissoutes à la simple idée de vouloir passer une [La Route](La%20Route.md)frontière Impériale ou s'en prendre à un citoyen impérial. 
 
 Pour le contrôle interne l'Empire fait preuve d'une délicatesse et d'une maîtrise hors du commun. 
 
@@ -28,7 +29,7 @@ Pour le contrôle interne l'Empire fait preuve d'une délicatesse et d'une maît
 > [!wahrheit]
 > Un pouvoir régalien central représenté localement par des groupes nomades — des caravanes administratives — siégeant de villes en villes régulièrement.
 
-Plusieurs centaines de caravanes ayant chacune leurs rôles pouvaient se retrouver dans un [[Domaine]] et toutes n'étaient pas présentes en même temps. 
+Plusieurs centaines de caravanes ayant chacune leurs rôles pouvaient se retrouver dans un [Domaine](Domaine.md) et toutes n'étaient pas présentes en même temps. 
 Une caravane de maintient de l'ordre tournait tous les ans pour maintenir une présence renouvelé et constante, là ou une caravane de renouvellement monétaire pouvait ne passer qu'une fois par décenie.  
 
 > [!wahrheit]
@@ -37,7 +38,7 @@ Une caravane de maintient de l'ordre tournait tous les ans pour maintenir une pr
 
 
 ## Informations supplémentaires
-Utilise [[Le calendrier impérial]].
+Utilise [Le calendrier impérial](Le%20calendrier%20imp%C3%A9rial.md).
 
 Durant son règne la sanctification était un procédé courant pour récompenser les mérites éminents associés a une conduite irréprochable. 
 
